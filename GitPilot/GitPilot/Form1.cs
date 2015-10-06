@@ -16,8 +16,10 @@ namespace GitPilot
             InitializeComponent();
             
             // test branch
-			// lloyd changes
-        }
+<<<<<<< .mine
+            // 3.jr changes
+=======			// lloyd changes
+>>>>>>> .theirs        }
 		
 		
     }
