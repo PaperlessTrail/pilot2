@@ -14,6 +14,8 @@ namespace GitPilot
         public Form1()
         {
             InitializeComponent();
+            
+            // test branch
         }
     }
 }
