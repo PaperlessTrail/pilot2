@@ -16,6 +16,9 @@ namespace GitPilot
             InitializeComponent();
             
             // test branch
+			// lloyd changes
         }
+		
+		
     }
 }
